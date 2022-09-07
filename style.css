@@ -1,0 +1,17 @@
+button{
+  width:200px;
+  height:40px;
+  color:red;
+  position:absolute;
+  bottom:50px;
+  right:100px;
+  border-color:red;
+}
+img{
+  width:400px;
+  height:900px;
+  color:white;
+  position:absolute;
+  center:50px;
+  top:9px;
+}

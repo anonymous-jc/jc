@@ -1,0 +1,11 @@
+body{
+  background-color:black;
+}
+button{
+  width:200px;
+  height:50px;
+  position:absolute;
+  bottom:150px;
+  border-radius:30px;
+  color:red;
+}
